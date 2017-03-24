@@ -1,0 +1,27 @@
+{
+  "name": "npm-starter",
+  "version": "1.0.0",
+  "description": "Starter for simple Npm apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node tools/server.js"
+  },
+  "devDependencies": {
+    "express":"*",
+    "path":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vivektheone/npm-starter.git"
+  },
+  "keywords": [
+    "npm-starter"
+  ],
+  "author": "Ryu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivektheone/npm-starter/issues"
+  },
+  "homepage": "https://github.com/vivektheone/npm-starter#readme"
+}
